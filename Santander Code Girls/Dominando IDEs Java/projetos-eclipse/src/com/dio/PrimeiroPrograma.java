@@ -1,6 +1,6 @@
 package com.dio;
 
-import com.dio.Gato;
+import com.dio.strings.Strings;
 
 public class PrimeiroPrograma {
 
