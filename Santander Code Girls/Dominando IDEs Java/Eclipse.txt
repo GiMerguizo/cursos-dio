@@ -16,6 +16,12 @@ Ctrl + -: diminui a fonte
 Ctrl + D: apaga a linha
 Alt + setinha: move as linhas selecionadas
 Ctrl + Shift + F: Organiza
+Ctrl + Shift + O: importação
+Ctrl + 1: cria uma variável
+Ctrl + Shift + T: pesquisa uma palavra dentro do programa
+Ctrl + W: Fecha uma aba
+Ctrl + Shift + W: Fecha todas as abas
+
 
 Utilizar o "Generate Constructor using Fields"
 ... Getters and Setters
