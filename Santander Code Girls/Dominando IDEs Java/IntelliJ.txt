@@ -1,0 +1,16 @@
+Criar a classe main
+Na pasta src, pressionar Alt + Insert => package => br.com.dio => Alt + Insert => Java Class => Class => Name ("PrimeiroPrograma")
+
+sout => cria o comando "System.out.println( )"
+
+Rodar pela primeira vez: Ctrl + Shift + F10
+Depois: Shift + F10
+
+Adcionar o Construtor: pressinonar Alt + Insert no local da codificação
+
+Ctrl + Shift + /: comenta todo o bloco selecionado
+Ctrl + /: comenta linha por linha
+Alt + Enter: importa
+Ctrl + Alt + O: apaga os imports que não estão sendo utilizados
+Ctrl + Y: apaga a linha
+

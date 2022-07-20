@@ -21,6 +21,7 @@ Ctrl + 1: cria uma variável
 Ctrl + Shift + T: pesquisa uma palavra dentro do programa
 Ctrl + W: Fecha uma aba
 Ctrl + Shift + W: Fecha todas as abas
+Ctrl + Shift + C: comenta todo o bloco selecionado
 
 
 Utilizar o "Generate Constructor using Fields"
