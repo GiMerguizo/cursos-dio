@@ -20,13 +20,20 @@ Shift + F12 => deixa só o editor de texto
 Ctrl + Alt + L => organiza o código
 Ctrl + Shift + setinha => Move o texto
 Ctrl + Alt + V => cria uma variavel
+Ctrl + F4 => Fecha as abas
+Ctrl + N => pesquisa as classes
+Ctrl + B => entra na classe
+
 
 http://www.basef.com.br/index.php/Atalhos_do_IntelliJ_Idea#:~:text=Atalhos%20do%20IntelliJ%20Idea%201%20psvm%3A%20Criar%20m%C3%A9todo,sobre%20c%C3%B3digo%20que%20permite%20atribui%C3%A7%C3%A3o%29%20Mais%20itens...%20
 
 
-----------------------
-Versionamento
-
+Plugins
+- Rainbow brackets
+- Nyan Progress Bar
+- Git Tool Box
+- Key Promoter X
+- One dark theme 
 
 
 
