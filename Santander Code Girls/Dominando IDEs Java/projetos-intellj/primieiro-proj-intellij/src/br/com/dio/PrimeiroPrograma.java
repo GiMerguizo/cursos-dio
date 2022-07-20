@@ -8,8 +8,8 @@ public class PrimeiroPrograma {
         Gato gato = new Gato();
         System.out.println(gato);
 
-        /*Livro livro1 = new Livro(nome: "O problema dos 3 corpos");
-        System.out.println(livro1);*/
+        Livro livro1 = new Livro("O problema dos 3 corpos", 300);
+        System.out.println(livro1);
 
         /*int a = 5;
         int b = 3;
