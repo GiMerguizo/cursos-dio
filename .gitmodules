@@ -1,0 +1,3 @@
+[submodule "dio-live-coding-aws"]
+	path = dio-live-coding-aws
+	url = https://github.com/cassianobrexbit/dio-live-coding-aws.git
