@@ -1,0 +1,4 @@
+Pós-fixado: exp++ ou exp--
+Prefixado: ++exp ou --exp
+Aritmético: +, -, *, / e %
+Atribuição: =, +=, -=, *=. /= e %=

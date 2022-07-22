@@ -1,0 +1,5 @@
+- Definição: transformação de uma variável de tipo menos específico para um tipo mais específico ou vice-versa;
+
+Upcast (implícito): promoção de um menor para um maior
+Downcast (explícito): de um maior para um menor
+
