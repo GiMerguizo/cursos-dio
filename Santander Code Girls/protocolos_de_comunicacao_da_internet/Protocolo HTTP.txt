@@ -1,0 +1,7 @@
+HyperText Transfer Protocol (HTTP)
+
+Browsee: implementa o cliente HTTP
+Servidor: host objetos web
+
+Arquitetura Cient-server
+Stateless: não possui estado anterior armazenado
