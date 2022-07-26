@@ -10,8 +10,6 @@ Stateless: não possui estado anterior armazenado
 Cliente: mensagens - request HTTP
 Servidor: mensagens - response HTTP
 
-
-
 ---- HTTP 1.1 -----
 
 Transmission Control Protocol - TCP
@@ -77,8 +75,34 @@ Web Cache (Proxy server)
 - Redução do tempo de resposta;
 - Redução de tráfego;
 
+------ HTTP 2.0 -----
+HOL - Head of Line Blocking
+- Conexão principal (persistente)
+	Envio de requisições de maneira independente;
+	Multiplexação;
+	Priorização de recursos;
+- Segmentação do header do data;
+	Compactação;
+	Reutilização do Header;
+- Push: envio de tudo que for necessário, mesmo sem requisição do cliente.
+	Não é habilitado por Default;
+- HTTPS por padrão.
 
+Contras
+- Push
+	Configuração incorreta;
+- Mix 1.1 e 2.0
+	Lentidão;
+	Load Balancer - HTTP 1.1;
 
+----- Servidores / Sistemas de aplicação ------
+HTTP Servers
+- Apache;
+- Nginx;
+- Xampp;
+
+Comunicação
+$ sudo wireshark
 
 
 
