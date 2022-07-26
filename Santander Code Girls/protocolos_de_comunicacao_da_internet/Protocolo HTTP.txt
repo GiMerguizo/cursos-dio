@@ -5,3 +5,5 @@ Servidor: host objetos web
 
 Arquitetura Cient-server
 Stateless: não possui estado anterior armazenado
+
+Transmission Control Protocol - TCP
