@@ -13,3 +13,24 @@ public static R N(P) {...}
 
 - Classes em MAIUSCULA
 - Objeto em MINUSCULA
+
+----- Particularidades ------
+Ass = nome + parâmetros
+- Está dentro de um método
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
