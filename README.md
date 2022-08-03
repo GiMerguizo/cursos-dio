@@ -17,4 +17,5 @@ Repositório feito para a organização dos estudos realizados na DIO
 :ballot_box_with_check: GeracaoTechUnimedBH <br>
 :ballot_box_with_check: GFT-Start-Woman <br>
 :pencil2: Santander Code Girls <br>
+[Code Girls 2022](https://app.becas-santander.com/pt/program/bolsas-santander-tecnologia-code-girls-2022)<br>
 :pencil2: Linux Experience <br>
