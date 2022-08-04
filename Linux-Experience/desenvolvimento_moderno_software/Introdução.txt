@@ -57,6 +57,39 @@ Modelo Cliente-Servidor
 	- Segurança da Tecnologia da Informação;
 	- Mão de obra especializada;
 	- Infraestrutura local;
+- Atrás do desenvolvimento;
+
+-------- Cloud ----------
+Nuvem pública
+- Empresas que oferecem servidores delas;
+	- Serviços;
+- Ex.: Azure, AWS, GoogleCloud, Oracle, etc
+- Redução de custo;
+- Não precisa mais se preocupar com Hardware;
+- Escalabilidade;
+
+Cloud Computing
+- Responsável pela estrutura em nuvem;
+
+-------- Mobile ---------
+- Mesmo Backend;
+- Mudança no Frontend;
+
+Android
+- AndroidStudio;
+- Java e/ou Kotlin;
+
+IOS
+- Xcode;
+- Swift;
+
+Híbrido (web)
+- Abrange tanto Android quanto IOS
+- Ex.: Ionic; Flutter; React Native;
+
+
+
+
 
 
 
