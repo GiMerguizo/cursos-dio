@@ -8,9 +8,13 @@ Repositório feito para a organização dos estudos realizados na DIO
 [GitHub](https://github.com/)
 
 ### Instalações :wrench: :gear:
-
+#### Java
 [IntelliJ IDEA: The Capable & Ergonomic Java IDE by JetBrains](https://www.jetbrains.com/idea/promo/)<br>
-[Eclipse IDE](https://www.eclipse.org/downloads/)
+[Eclipse IDE](https://www.eclipse.org/downloads/)<br>
+
+#### Linux 
+[Ubuntu](https://ubuntu.com/download/)<br>
+[VitualBox](https://www.virtualbox.org/)
 
 
 ## Bootcamps
