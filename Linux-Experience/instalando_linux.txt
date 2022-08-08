@@ -1,6 +1,6 @@
 Iremos utilizar inicialmente: Ubuntu Server
 
-Link: https://ubuntu.com/download/server
+Link: https://ubuntu.com/download/
 
 - Máquina Vitual utilizada: VirtualBox
 https://www.virtualbox.org/
@@ -10,4 +10,22 @@ https://www.virtualbox.org/
 bcdedit
 #Se o hypervisorlauchtype tiver "Auto"
 bcdedit /set hypervisorlauchtype off
+
+reboot => reinicia a máquina
+shutdown 0 => desliga
+
+-------- Conta AWS -------
+Serviço de Máquinas Virtuais: EC2
+ - Instâncias
+
+------------ WSL ----------
+- Checar se o Windows é versão Pro;
+- Abrir o Painel de Controle => Ativar ou desativar recursos do Windows => Verificar as seguintes instalações:
+ 	- Plataforma de Máquina Virtual;
+	- Plataforma de Hipervisor do Windows;
+	- Subsistema do Windows para Linux;
+
+
+
+
 
