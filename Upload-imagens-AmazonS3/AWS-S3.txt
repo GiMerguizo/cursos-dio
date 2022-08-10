@@ -1,0 +1,26 @@
+---------- Visão Geral -----------
+- Serviço de Storage;
+- Objetos e Buckets;
+	- 100 Buckets;
+	- Não há limite de objetos;
+- APIs;
+- Default: privado e acesso restrito;
+
+Sub-recursos
+- CORS;
+
+--------- Criando um Bucket -------
+- S3
+
+Criando um Bucket a partir o Java
+- Spring
+https://start.spring.io/
+	Project: Maven Project;
+	Language: Java;
+	Spring Boot: 2.7.2
+	Java 11
+	Dependencies: 
+		- Spring Boot Dev Tools;
+		- Lombok;
+		- Spring Web;
+
