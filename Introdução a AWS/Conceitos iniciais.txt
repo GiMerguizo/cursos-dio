@@ -7,6 +7,6 @@ Cinco pilares:
 - Otimização de custos;
 
 AWS API Gateway - criação de uma API HTTP
-AWS Lambda - Implemntação de uma função serverless em NodeJS
+AWS Lambda - Implementação de uma função serverless em NodeJS
 AWS DynamoDB - bando de dados no MySQL
 AWS IAM - permissões de acesso
