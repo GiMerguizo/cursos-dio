@@ -10,8 +10,8 @@ import org.springframework.context.annotation.Configuration;
 
 @Configuration
 public class AmazonConfig {
-    private static final String ACCESS_KEY = "AKIA2RTSNKEEADQA7PSP"; //access_key
-    private static final String SECRET_KEY = "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"; //secret_key
+    private static final String ACCESS_KEY = "access_key"; //access_key
+    private static final String SECRET_KEY = "secret_key"; //secret_key
 
     @Bean
     public static AmazonS3 s3WithCredentials(){
