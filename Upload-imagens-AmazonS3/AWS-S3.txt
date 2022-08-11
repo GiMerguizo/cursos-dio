@@ -23,4 +23,23 @@ https://start.spring.io/
 		- Spring Boot Dev Tools;
 		- Lombok;
 		- Spring Web;
+- Extrair o arquivo;
+- Abrir com o Intellij
+- Copiar o código do site: https://mvnrepository.com/artifact/com.amazonaws/aws-java-sdk-s3
+
+<!-- https://mvnrepository.com/artifact/com.amazonaws/aws-java-sdk-s3 -->
+<dependency>
+    <groupId>com.amazonaws</groupId>
+    <artifactId>aws-java-sdk-s3</artifactId>
+    <version>1.12.279</version>
+</dependency>
+
+- Colar no arquivo "pom.xml" - Linha 41 (conferir)
+- Baixar a dependência da AWS;
+- Em: src/main/java/S3withspringApplication
+	- Run (testar se tá tudo certo);
+- Criar um classe em com.dioclass.s3withspring
+
+- Confiuração da AWS: AmazonConfig 
+- Método para criação do Bucket: BucketServices
 
