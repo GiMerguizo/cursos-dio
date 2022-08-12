@@ -21,3 +21,13 @@ ls arquivo[^2,5]*
 ls arquivo[^3-5]*
 
 touch => cria arquivos vazios
+
+--------- Localizando arquivos --------
+ls /sys
+ls /sys/kernel/n*
+
+- Buscar por um arquivo
+find -name "nome_do_arquivo"
+
+------- Criando diretórios ------
+mkdir
