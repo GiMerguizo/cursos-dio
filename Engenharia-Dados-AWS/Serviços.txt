@@ -1,0 +1,12 @@
+-------- AWS Snow Family --------
+- Dispositivos portáteis e offline
+ 
+Aplicações
+- Conectividade limitada
+- Alto custo de rede
+- Conexão instável
+
+-------- AWS Kinesis -------
+- Inputs
+- Gerenciada pelo Apache Kafta
+- "Em tempo real"
