@@ -29,5 +29,16 @@ ls /sys/kernel/n*
 - Buscar por um arquivo
 find -name "nome_do_arquivo"
 
-------- Criando diretórios ------
-mkdir
+
+mkdir - cria diretórios
+mkdir 'Meus Documentos'
+rmdir - exclui diretórios
+rm - exclui arquivos
+rm -rf - exclui tudo dentro diretório (-r) e o próprio diretório (-f)
+
+-------- Obtendo ajuda ---------
+-- help
+ls -l => lista longa
+man ls
+
+https://help.ubuntu.com/
