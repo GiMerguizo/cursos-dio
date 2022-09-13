@@ -21,4 +21,5 @@ Repositório feito para a organização dos estudos realizados na DIO
 :ballot_box_with_check: GeracaoTechUnimedBH <br>
 :ballot_box_with_check: GFT-Start-Woman <br>
 :ballot_box_with_check: Santander Code Girls <br>
-:pencil2: Linux Experience <br>
+:ballot_box_with_check: Linux Experience <br>
+:pencil2: Ciência de Dados <br>
