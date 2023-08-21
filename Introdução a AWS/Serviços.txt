@@ -1,5 +1,0 @@
--------- Amazon Cognito -------
-- Usuários pool
-- Conjunto de usuários
-
--------- DynamoDB ------

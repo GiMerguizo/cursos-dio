@@ -1,3 +1,0 @@
---------- Python --------
-- Influenciada por ABC
-- Facilidade deaprendizagem e utilização

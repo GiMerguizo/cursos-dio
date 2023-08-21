@@ -1,9 +1,0 @@
----------- DynamoDB -----------
-DB relacional: baseado no modelo relacional (SQL)
-	- Dados em tabelas e reclacionados entre si;
-Não relcaional: não segue o modelo relacional; (NoSQL)
-	- par chave/valor
-
-Amazon DynamoDB
-
-
