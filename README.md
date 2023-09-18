@@ -1,11 +1,10 @@
 # Cursos da Plataforma DIO :computer:
 Repositório feito para a organização dos estudos realizados na DIO
 
-
-
 ## Links Úteis :link:
 [Digital Innovation One - DIO](https://www.dio.me/)<br>
-[GitHub](https://github.com/)
+[GitHub](https://github.com/) <br>
+[Notion](https://www.notion.so/pt-br)
 
 ### Instalações :wrench: :gear:
 #### Java
@@ -22,4 +21,4 @@ Repositório feito para a organização dos estudos realizados na DIO
 :ballot_box_with_check: GFT-Start-Woman <br>
 :ballot_box_with_check: Santander Code Girls <br>
 :ballot_box_with_check: Linux Experience <br>
-:pencil2: Ciência de Dados <br>
+:ballot_box_with_check: Ciência de Dados <br>
